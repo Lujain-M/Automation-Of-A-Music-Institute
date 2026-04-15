@@ -1,0 +1,85 @@
+c:\users\asus\documents\visual studio 2012\Projects\music_academy\music_academy\bin\Debug\music_academy.exe.config
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\bin\Debug\music_academy.exe
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\bin\Debug\music_academy.pdb
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\bin\Debug\MySql.Data.Entity.dll
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\obj\Debug\music_academy.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\obj\Debug\music_academy.classroom.resources
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\obj\Debug\music_academy.main.resources
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\obj\Debug\music_academy.payment.resources
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\obj\Debug\music_academy.Properties.Resources.resources
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\obj\Debug\music_academy.student.resources
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\obj\Debug\music_academy.teachers.resources
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\obj\Debug\music_academy.csproj.GenerateResource.Cache
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\obj\Debug\music_academy.exe
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\obj\Debug\music_academy.pdb
+C:\Users\ASUS\documents\visual studio 2012\Projects\music_academy\music_academy\obj\Debug\music_academy.course.resources
+C:\Users\ASUS\Desktop\مشاريع قواعد بيانات\معهد موسيقي\music_academy\music_academy\bin\Debug\music_academy.exe.config
+C:\Users\ASUS\Desktop\مشاريع قواعد بيانات\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.exe
+C:\Users\ASUS\Desktop\مشاريع قواعد بيانات\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.pdb
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\bin\Debug\music_academy.exe.config
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.exe
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.pdb
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\bin\Debug\music_academy.exe
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\bin\Debug\music_academy.pdb
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.csprojResolveAssemblyReference.cache
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.classroom.resources
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.course.resources
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.main.resources
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.payment.resources
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.Properties.Resources.resources
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.student.resources
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.teachers.resources
+C:\Users\MY COMPUTER\Desktop\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.csproj.GenerateResource.Cache
+D:\jj\معهد موسيقي\music_academy\music_academy\bin\Debug\music_academy.exe.config
+D:\jj\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.exe
+D:\jj\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.pdb
+D:\jj\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.csprojResolveAssemblyReference.cache
+D:\jj\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.classroom.resources
+D:\jj\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.course.resources
+D:\jj\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.main.resources
+D:\jj\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.payment.resources
+D:\jj\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.Properties.Resources.resources
+D:\jj\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.student.resources
+D:\jj\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.teachers.resources
+D:\jj\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.csproj.GenerateResource.Cache
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.csproj.AssemblyReference.cache
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.classroom.resources
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.course.resources
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.main.resources
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.payment.resources
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.Properties.Resources.resources
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.student.resources
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.teachers.resources
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.csproj.GenerateResource.cache
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.csproj.CoreCompileInputs.cache
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\music_academy.exe.config
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\music_academy.exe
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\music_academy.pdb
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\BouncyCastle.Crypto.dll
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\Google.Protobuf.dll
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\K4os.Compression.LZ4.dll
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\K4os.Hash.xxHash.dll
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\MySql.Data.dll
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\System.Buffers.dll
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\System.Memory.dll
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\System.Numerics.Vectors.dll
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\Ubiety.Dns.Core.dll
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\ZstdNet.dll
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\Google.Protobuf.pdb
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\Google.Protobuf.xml
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\K4os.Compression.LZ4.xml
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\K4os.Hash.xxHash.xml
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\MySql.Data.xml
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\System.Buffers.xml
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\System.Memory.xml
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\System.Numerics.Vectors.xml
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.csproj.CopyComplete
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.exe
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.pdb
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.BillOfSaleForm.resources
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.CourseRegistrationForm.resources
+D:\jj\معهد موسيقي\معهد موسيقي\music_academy\music_academy\obj\Debug\music_academy.OldTeachersForm.resources
